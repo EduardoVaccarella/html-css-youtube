@@ -60,6 +60,12 @@
     border-radius: 250px;
     margin-left: 20px;
   }
+
+  .flex-item-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
   
   main{
     display: flex;
